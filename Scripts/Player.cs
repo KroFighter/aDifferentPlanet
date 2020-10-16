@@ -1,5 +1,6 @@
 using Godot;
 using System;
+using System.Net;
 
 public class Player : KinematicBody2D
 {
@@ -35,6 +36,11 @@ public class Player : KinematicBody2D
             MoveAndCollide(
                 new Vector2(0, moveSpeed)
             );
+        }
+
+        if (Input.IsActionPressed("Fire"))
+        {
+            
         }
         
     }

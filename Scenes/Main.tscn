@@ -1,8 +1,9 @@
-[gd_scene load_steps=5 format=2]
+[gd_scene load_steps=6 format=2]
 
 [ext_resource path="res://Sprites/Background.png" type="Texture" id=1]
 [ext_resource path="res://Scripts/Player.cs" type="Script" id=2]
 [ext_resource path="res://Sprites/Player.png" type="Texture" id=3]
+[ext_resource path="res://Scenes/MouseAngel.cs" type="Script" id=4]
 
 [sub_resource type="CapsuleShape2D" id=1]
 radius = 87.6178
@@ -26,3 +27,7 @@ texture = ExtResource( 3 )
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player"]
 position = Vector2( 944.891, 804.445 )
 shape = SubResource( 1 )
+
+[node name="Node2D" type="Node2D" parent="Player"]
+position = Vector2( 944.89, 804.457 )
+script = ExtResource( 4 )

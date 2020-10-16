@@ -17,7 +17,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Scenes/Player.cs" />
+        <option value="$PROJECT_DIR$/Scenes/MouseAngel.cs" />
         <option value="$PROJECT_DIR$/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Scenes/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Scripts/MouseAngle.cs" />
+        <option value="$PROJECT_DIR$/Scripts/ShootingMechanics.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Bullet.cs" />
       </list>
     </option>
   </component>
@@ -70,5 +75,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1602847055490" />
+    <state x="670" y="210" key="RiderGenerateDialog" timestamp="1602875362767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="210" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602875362767" />
   </component>
 </project>

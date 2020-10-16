@@ -19,7 +19,10 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="Scenes" t="Include" />
       <e p="Scripts" t="Include">
+        <e p="Bullet.cs" t="Include" />
+        <e p="MouseAngle.cs" t="Include" />
         <e p="Player.cs" t="Include" />
+        <e p="ShootingMechanics.cs" t="Include" />
       </e>
     </e>
   </component>

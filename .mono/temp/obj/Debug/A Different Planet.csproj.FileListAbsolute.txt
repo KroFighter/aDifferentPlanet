@@ -1,0 +1,8 @@
+C:\Users\Chick\OneDrive\Documents\A Different Planet\.mono\temp\bin\Debug\A Different Planet.dll
+C:\Users\Chick\OneDrive\Documents\A Different Planet\.mono\temp\bin\Debug\A Different Planet.pdb
+C:\Users\Chick\OneDrive\Documents\A Different Planet\.mono\temp\obj\Debug\A Different Planet.csprojAssemblyReference.cache
+C:\Users\Chick\OneDrive\Documents\A Different Planet\.mono\temp\obj\Debug\A Different Planet.AssemblyInfoInputs.cache
+C:\Users\Chick\OneDrive\Documents\A Different Planet\.mono\temp\obj\Debug\A Different Planet.AssemblyInfo.cs
+C:\Users\Chick\OneDrive\Documents\A Different Planet\.mono\temp\obj\Debug\A Different Planet.csproj.CoreCompileInputs.cache
+C:\Users\Chick\OneDrive\Documents\A Different Planet\.mono\temp\obj\Debug\A Different Planet.dll
+C:\Users\Chick\OneDrive\Documents\A Different Planet\.mono\temp\obj\Debug\A Different Planet.pdb
